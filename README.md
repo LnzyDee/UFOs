@@ -33,4 +33,4 @@ The second recommendation I would make for further development would be to inclu
 
 ## Resources
 - Data Source: [UFO Data](static/js/data.js),
-- Software: JavaScript, 3.7.6, [Visual Studio Code](https://code.visualstudio.com/), 1.65.2
+- Software: JavaScript, [Visual Studio Code](https://code.visualstudio.com/), 1.65.2

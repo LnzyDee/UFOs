@@ -27,9 +27,11 @@ One drawback of this new design is that the search only recognizes the entered s
 
 ![UFO CA None](/RMimages/search_CA_none.png)
 
-The first recommendation I would make for further development would be to adjust for upper-cased search terms. As said above, if a user enters 'CA' as a search instead of 'ca' they won't get any results. Adjusting the code to have it read the search and return the desired results could help with user searches.
+### Recommendations
 
-The second recommendation I would make for further development would be to include another search field to filter the data by. There are comments included in the data and having a user search by what the UFO sighting was described as, using keywords, may help them to find exactly what they're looking for even faster.
+- The first recommendation I would make for further development would be to adjust for upper-cased search terms. As said above, if a user enters 'CA' as a search instead of 'ca' they won't get any results. Adjusting the code to have it read the search and return the desired results could help with user searches.
+
+- The second recommendation I would make for further development would be to include another search field to filter the data by. There are comments included in the data and having a user search by what the UFO sighting was described as, using keywords, may help them to find exactly what they're looking for even faster.
 
 ## Resources
 - Data Source: [UFO Data](static/js/data.js),
